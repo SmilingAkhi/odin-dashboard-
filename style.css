@@ -3,7 +3,11 @@
   margin: 0;
   padding: 0;
   font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Roboto;
+}
+@font-face {
+  font-family: Roboto;
+  src: url(./font/Roboto-Medium.ttf);
 }
 .container {
   height: 100vh;
